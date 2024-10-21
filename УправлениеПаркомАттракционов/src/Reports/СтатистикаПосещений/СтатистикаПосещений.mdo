@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c9998c95-0971-4a21-88f1-f2bbf07cb3ea">
+  <producedTypes>
+    <objectType typeId="9add463c-1032-40de-bb3d-afcf57c0eb23" valueTypeId="ea83e5da-fac3-418d-b60b-83c253642374"/>
+    <managerType typeId="26a903ed-1a0a-4b8c-b6af-f4639dd00e71" valueTypeId="ee9c7df0-235d-4a39-9de2-55adb350d97c"/>
+  </producedTypes>
+  <name>СтатистикаПосещений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Статистика посещений</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.СтатистикаПосещений.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="ed5806c0-375f-4f4d-a96f-3b3013e8c208">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
